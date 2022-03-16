@@ -1,0 +1,3 @@
+C:\Users\65193\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6777.58\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\main_border_bin.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe qc CMakeFiles\main_border_bin.dir/objects.a @CMakeFiles\main_border_bin.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  -std=c++11 -g -Wl,--whole-archive CMakeFiles\main_border_bin.dir/objects.a -Wl,--no-whole-archive -o main_border_bin.exe -Wl,--out-implib,libmain_border_bin.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\main_border_bin.dir\linklibs.rsp
